@@ -11,11 +11,11 @@ Twitterでもアカウント作成もできます。
 アカウント作成後、https://request-box.com/login からログインします。
 
 3. URLを共有  
-右上の"Request URL"をクリックし、 "COPY AND SHARE THIS PAGE"をクリックし、コピーしたURLをユーザーに共有します。
+右上の"リクエストURL"をクリックし、 "このページのリンクをコピーして共有"をクリックし、コピーしたURLをユーザーに共有します。
 
 
 4. 企画リクエスト一覧を確認  
-"REQUEST LIST"をクリックすると、ユーザーからのリクエスト一覧を確認できます。
+"リクエスト一覧"をクリックすると、ユーザーからのリクエスト一覧を確認できます。
 <img width="700" alt="スクリーンショット 2022-01-19 0 21 29" src="https://user-images.githubusercontent.com/48975545/149965784-129f5ac6-e3db-4153-b353-3b2e0c49e884.png">
 
 
@@ -37,28 +37,3 @@ Python(Django)・React・Ubuntu・SendGrid（メール送信）
 ・パスワード変更  
 ・アカウント作成時の登録メール送信  
 ・登録メールクリック後にアカウント有効化  
-
-# (English) Welcome to Request Box!
-Youtubers or streamers can receive any requests from users.  
-Users can post any ideas or projects anonymousely which they want youtubers or streamers to do.
-
-# How to use
-## For youtubers or streamers
-1. Signup  
-Please access https://en.request-box.com/signup, and create an account.  
-If you have a twitter account you can login with twitter.
-
-2. Login  
-If you create an account, Please login with your account.
-
-3. Share your request box url  
-Click "Request URL" on the right upper tab.  
-Then click "COPY AND SHARE THIS PAGE", and share the copied url to users.
-
-4. View request from users  
-Click "Request LIST" on the right upper tab, and you can see the list of requests from users.
-
-
-## For users
-Click the url youtubers or streamers share.  
-Scroll down, and fill the text box and send. Then you can post any ideas or projects which they want youtubers or streamers to do.
