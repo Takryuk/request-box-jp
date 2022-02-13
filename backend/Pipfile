@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+django = "*"
+djoser = "*"
+djangorestframework-simplejwt = "*"
+djangorestframework = "*"
+django-imagekit = "*"
+pillow = "*"
+django-cors-headers = "*"
+social-auth-app-django = "*"
+requests-oauthlib = "*"
+python-dotenv = "*"
+django-sendgrid-v5 = "*"
+psycopg2 = "*"
+psycopg2-binary = "*"
+
+[requires]
+python_version = "3.7"
